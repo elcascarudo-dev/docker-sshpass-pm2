@@ -12,7 +12,7 @@ Crear dentro del proyecto el archivo pm2.json con el siguiente contenido:
 
 ```json
 {
-  "name": "rest-api-login",
+  "name": "rest-api",
   "script": "server.js",
   "instances": "2",
   "env": {
